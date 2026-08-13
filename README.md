@@ -11,7 +11,7 @@ Open to **remote or relocation opportunities** and available immediately.
 ## Flagship Projects
 
 ### [Dialektika](https://github.com/malthafkiram/Dialektika)
-Live: [dialektika.vercel.app](https://dialektika.vercel.app/)
+Live: [https://dialektikaa.vercel.app/](https://dialektikaa.vercel.app/)
 
 Fullstack web platform built with TypeScript and modern React/Next.js patterns. Focused on clean UI, structured product flows, and a polished deployed experience.
 
