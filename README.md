@@ -37,7 +37,7 @@
 
 Fullstack software engineer. I take products from UI to API to payment to deploy. AI features in my apps read live databases, so they do not invent prices, stock, or jobs.
 
-**S.Kom, Universitas Malikussaleh (GPA 3.66)** · **Hacktiv8 AI-Enhanced Full Stack Developer** · Indonesia, remote or relocate, available immediately.
+**Teknik Informatika, Universitas Malikussaleh (GPA 3.66)** · **Hacktiv8 AI-Enhanced Full Stack Developer** · Indonesia, remote or relocate, available immediately.
 
 ## Deployed products
 
