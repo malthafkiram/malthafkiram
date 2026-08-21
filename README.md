@@ -26,8 +26,8 @@
     <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://m-althaf-kiram-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=22D3EE&labelColor=0A101F" alt="Portfolio" />
+  <a href="https://porto.kabanroom.web.id/">
+    <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&labelColor=0A101F&color=22D3EE" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;
   <a href="https://wa.me/6285157715522?text=Hi%20Althaf%2C%20I%20found%20your%20GitHub%20and%20want%20to%20talk%20about%20a%20role.">
@@ -102,7 +102,7 @@ Crypto dashboard with live market radar, whale alerts, Groq copilot, paper tradi
   ·
   <a href="https://www.linkedin.com/in/malthafkiram">LinkedIn</a>
   ·
-  <a href="https://m-althaf-kiram-portfolio.vercel.app">Portfolio</a>
+  <a href="https://porto.kabanroom.web.id/">Portfolio</a>
   ·
   <a href="https://wa.me/6285157715522">WhatsApp</a>
 </p>

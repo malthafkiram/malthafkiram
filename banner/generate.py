@@ -46,7 +46,7 @@ PROFILE = {
     "database": "PostgreSQL, MongoDB, Redis",
     "infra": "AWS EC2, Vercel",
     "mail": "malthafkiram@gmail.com",
-    "portfolio": "m-althaf-kiram-portfolio.vercel.app",
+    "portfolio": "porto.kabanroom.web.id",
     "linkedin": "/in/malthafkiram",
     "github": "github.com/malthafkiram",
     "whatsapp": "+62 851-5771-5522",
