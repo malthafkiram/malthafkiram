@@ -1,53 +1,108 @@
-# M. Althaf Kiram
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+    <img alt="M. Althaf Kiram live profile terminal" src="./dark.svg" width="100%">
+  </picture>
+</div>
 
-**Fullstack Software Engineer** shipping end-to-end web and mobile products with Next.js, Node.js, realtime systems, and AI integrations.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=740&lines=I+ship+AI+products+you+can+click;LangChain+RAG+%2B+realtime+%2B+fullstack;Available+now+-+remote+or+relocate" alt="Typing headline" />
+</div>
 
-[Portfolio](https://m-althaf-kiram-portfolio.vercel.app) · [LinkedIn](https://linkedin.com/in/malthafkiram) · [Email](mailto:malthafkiram@gmail.com)
+<p align="center">
+  <img src="https://img.shields.io/badge/6%2B_live_products-0A101F?style=for-the-badge&labelColor=0A101F&color=22D3EE" alt="6+ live products" />
+  <img src="https://img.shields.io/badge/GPA_3.66-0A101F?style=for-the-badge&labelColor=0A101F&color=A78BFA" alt="GPA 3.66" />
+  <img src="https://img.shields.io/badge/Hacktiv8-0A101F?style=for-the-badge&labelColor=0A101F&color=10B981" alt="Hacktiv8" />
+  <img src="https://img.shields.io/badge/Open_to_hire-0A101F?style=for-the-badge&labelColor=0A101F&color=F43F5E" alt="Open to hire" />
+</p>
 
-I build practical products from UI to backend: responsive web apps, APIs, dashboards, realtime chat, mobile experiences, and AI-assisted workflows. I care about clear product thinking, clean implementation, and shipping software that people can actually use.
+<p align="center">
+  <a href="https://www.linkedin.com/in/malthafkiram">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:malthafkiram@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://m-althaf-kiram-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=22D3EE&labelColor=0A101F" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/6285157715522?text=Hi%20Althaf%2C%20I%20found%20your%20GitHub%20and%20want%20to%20talk%20about%20a%20role.">
+    <img src="https://img.shields.io/badge/WhatsApp-0A101F?style=for-the-badge&logo=whatsapp&logoColor=10B981&labelColor=0A101F" alt="WhatsApp" />
+  </a>
+</p>
 
-Open to **remote or relocation opportunities** and available immediately.
+Fullstack software engineer. I take products from UI to API to payment to deploy. AI features in my apps read live databases, so they do not invent prices, stock, or jobs.
 
-## Flagship Projects
+**S.Kom, Universitas Malikussaleh (GPA 3.66)** · **Hacktiv8 AI-Enhanced Full Stack Developer** · Indonesia, remote or relocate, available immediately.
 
-### [Dialektika](https://github.com/malthafkiram/Dialektika)
-Live: [https://dialektikaa.vercel.app/](https://dialektikaa.vercel.app/)
+## Deployed products
 
-Fullstack web platform built with TypeScript and modern React/Next.js patterns. Focused on clean UI, structured product flows, and a polished deployed experience.
+These are live systems, not tutorial clones.
 
-### [WhaleWatch AI](https://github.com/malthafkiram/WhaleWatch-AI-Public)
-Live: [clien-five.vercel.app](https://clien-five.vercel.app/)
+**[RAC - Recommendation Auto Car](https://rac.kabanroom.web.id/)** `LIVE`
+LangChain RAG car advisor grounded on a live MongoDB catalog, then 360 inspection, credit simulation, and nearby dealers.
+`LangChain · Groq · Node.js · MongoDB · React · Midtrans`
+[Live](https://rac.kabanroom.web.id/) · [GitHub](https://github.com/malthafkiram/Recommendation-Auto-Car)
 
-AI-powered crypto market intelligence platform covering live price monitoring, sentiment analysis, whale movement detection, recommendations, paper trading, and premium upgrade flows.
+**[LamarKerja AI](https://lamarkerja.kabanroom.web.id)** `LIVE`
+Job application suite across 12 portals: OCR flyer scanner, AI cover letters, ATS CV audit, and mock interviews.
+`Express · PostgreSQL · Groq · Tesseract · React`
+[Live](https://lamarkerja.kabanroom.web.id) · [GitHub](https://github.com/malthafkiram/LamarKerja-AI)
 
-### Bug Brawl
-Live: [bugbrawl.sparda.id](https://bugbrawl.sparda.id)
+**[Dialektika](https://dialektikaa.vercel.app/)** `LIVE`
+Next.js bookstore with HttpOnly JWT auth, catalog search, wishlist, cart, and checkout.
+`Next.js · TypeScript · MongoDB · Zod · Vercel`
+[Live](https://dialektikaa.vercel.app/) · [GitHub](https://github.com/malthafkiram/Dialektika)
 
-Backend-focused contribution for an esport/debugging competition product. Worked on server-side features and product infrastructure for a team-based project.
+**[WhaleWatch AI](https://clien-five.vercel.app/)** `LIVE`
+Crypto dashboard with live market radar, whale alerts, Groq copilot, paper trading, and Midtrans VIP.
+`React · Express · PostgreSQL · Groq · Swagger`
+[Live](https://clien-five.vercel.app/) · [GitHub](https://github.com/malthafkiram/WhaleWatch-AI-Public)
 
-### [RakanChat](https://github.com/malthafkiram/RakanChat)
+**[Bug Brawl](https://bugbrawl.sparda.id)** `LIVE`
+1v1 debugging arena. Socket.IO rooms, automated tests, DeepSeek scoring, live leaderboard.
+`Socket.IO · Express · PostgreSQL · DeepSeek`
+[Live](https://bugbrawl.sparda.id) · [API docs](https://bbapi.sparda.id/api-docs) · [GitHub](https://github.com/Debugging-E-Sport/Debugging-E-Sport)
 
-Realtime chat application with web/mobile-oriented implementation, focused on messaging flows, responsive interaction, and practical fullstack delivery.
+## Stack
 
-## Technical Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,graphql,postgres,mongodb,redis,aws,vercel,git" alt="Tech stack" />
+</p>
 
-**Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, responsive UI  
-**Backend:** Node.js, Express, REST APIs, GraphQL, authentication, Socket.IO  
-**Databases:** PostgreSQL, MongoDB, Sequelize  
-**Cloud & Tools:** AWS EC2, Vercel, Git, GitHub, API integration  
-**Product Areas:** realtime apps, AI integrations, dashboards, mobile/web delivery
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS, React Native / Expo
+**Backend:** Node.js, Express, GraphQL / Apollo, REST, Socket.IO, JWT
+**Data:** PostgreSQL, MongoDB, Redis, Sequelize
+**AI:** LangChain RAG, Groq LLaMA, Tesseract OCR, DeepSeek
+**Cloud:** AWS EC2, Vercel, Midtrans Snap
 
-## What I Bring
+## Activity
 
-- End-to-end ownership from feature planning to deployment
-- Strong fullstack foundation across UI, API, database, and infrastructure
-- Practical experience with realtime systems, AI-assisted products, and production deployments
-- Clear communication in English and Indonesian
+<div align="center">
+  <img width="100%" src="https://streak-stats.demolab.com/?user=malthafkiram&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="GitHub streak" />
+  <br/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=malthafkiram&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malthafkiram&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="Top languages" />
+</div>
 
-## Contact
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/malthafkiram/malthafkiram/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/malthafkiram/malthafkiram/output/github-snake.svg" />
+    <img alt="Snake eating GitHub contributions" src="https://raw.githubusercontent.com/malthafkiram/malthafkiram/output/github-snake.svg" />
+  </picture>
+</div>
 
-- Email: [malthafkiram@gmail.com](mailto:malthafkiram@gmail.com)
-- LinkedIn: [linkedin.com/in/malthafkiram](https://linkedin.com/in/malthafkiram)
-- Portfolio: [m-althaf-kiram-portfolio.vercel.app](https://m-althaf-kiram-portfolio.vercel.app)
-
-<!-- profile-readme-live-check: RakanChat-visible 20260813133553 -->
+<p align="center">
+  <a href="mailto:malthafkiram@gmail.com"><strong>Hire me</strong></a>
+  ·
+  <a href="https://www.linkedin.com/in/malthafkiram">LinkedIn</a>
+  ·
+  <a href="https://m-althaf-kiram-portfolio.vercel.app">Portfolio</a>
+  ·
+  <a href="https://wa.me/6285157715522">WhatsApp</a>
+</p>
